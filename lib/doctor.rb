@@ -22,9 +22,9 @@ end
 end 
 
   def patients 
-  appointments.collect do |appointments|
-  appointments.patient 
-end 
-end 
+    appointments.collect do |appointments|
+    appointments.patient 
+    end 
+  end 
   
 end 
