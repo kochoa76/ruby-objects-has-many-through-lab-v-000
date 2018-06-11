@@ -19,6 +19,7 @@ class Artist
     @@all.select do |artist|
     artist.song == self 
   end 
+end 
   
     
   end 
