@@ -17,7 +17,7 @@ class Song
     end 
   
   def artist
-   artist.new_song(self) if artist.song != self 
+   
  end 
     
       
